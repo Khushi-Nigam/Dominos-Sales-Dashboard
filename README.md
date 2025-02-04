@@ -7,6 +7,9 @@
 The goal is to create an easy-to-use dashboard that combines all the sales data, shows important metrics clearly, and provides insights to help improve sales strategies, make operations smoother, and boost overall business performance.
 The dashboard also highlights daily and monthly revenue trends, with the highest sales occurring on Sundays and a total monthly revenue of ₹24.54M. By offering detailed insights into top-selling pizzas and sales distribution across different categories, this dashboard serves as a valuable tool for making informed business decisions and optimizing sales strategies.
 
+## PowerBI Dashboard
+
+![image](https://github.com/user-attachments/assets/0c14672d-639b-46a3-9abd-e403dbbb04df)
 
 ### Steps followed 
 
