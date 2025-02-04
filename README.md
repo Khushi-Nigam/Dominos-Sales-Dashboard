@@ -13,23 +13,32 @@ The dashboard also highlights daily and monthly revenue trends, with the highest
 
 ### Steps followed 
 
-Data Collection: Gathered sales data from various sources, ensuring it was comprehensive and accurate.
+# Data Collection: 
+Gathered sales data from various sources, ensuring it was comprehensive and accurate.
 
-Data Cleaning: Processed and cleaned the data to remove any inconsistencies, missing values, or errors.
+# Data Cleaning: 
+Processed and cleaned the data to remove any inconsistencies, missing values, or errors.
 
-Data Integration: Combined data from different sources into a single dataset for a unified view.
+# Data Integration:
+Combined data from different sources into a single dataset for a unified view.
 
-Data Analysis: Analyzed the cleaned data to identify key sales metrics and trends.
+# Data Analysis:
+Analyzed the cleaned data to identify key sales metrics and trends.
 
-Visualizations: Created various visualizations to represent different sales metrics, including revenue by pizza category, hourly sales trends, and revenue by day and month.
+# Visualizations: 
+Created various visualizations to represent different sales metrics, including revenue by pizza category, hourly sales trends, and revenue by day and month.
 
-Dashboard Design: Designed an interactive dashboard layout to display the visualizations and make it user-friendly.
+# Dashboard Design: 
+Designed an interactive dashboard layout to display the visualizations and make it user-friendly.
 
-Implementation: Implemented the dashboard using a data visualization tool or software, ensuring all visualizations were accurately represented.
+# Implementation:
+Implemented the dashboard using a data visualization tool or software, ensuring all visualizations were accurately represented.
 
-Testing: Tested the dashboard to ensure it was working correctly and making necessary adjustments for better performance.
+# Testing:
+Tested the dashboard to ensure it was working correctly and making necessary adjustments for better performance.
 
-Documentation: Prepared a README file and problem statement to explain the purpose, features, and usage of the dashboard.
+# Documentation: 
+Prepared a README file and problem statement to explain the purpose, features, and usage of the dashboard.
 
 ## Revenue By Pizza Category
 
