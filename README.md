@@ -1,79 +1,44 @@
-# Dominos-Sales-Dashboard
-![image](https://github.com/user-attachments/assets/c5df159b-f293-455c-940f-ce637c072153)
-Domino's Pizza Sales Dashboard
+# Domino's Pizza Sales Dashboard
 
-Overview
-This dashboard provides a comprehensive overview of various sales metrics for Domino's Pizza. It includes detailed analysis and visualizations to help identify trends and make data-driven decisions.
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/links/Vh1SA4kC2C?ctid=36a80010-a9bf-4b51-b783-5e9ebf7ffc4e&pbi_source=linkShare)
 
-Features
-Revenue: ₹24.54M
+## Problem Statement
 
-AOV (Average Order Value): ₹1.15K
+The goal is to create an easy-to-use dashboard that combines all the sales data, shows important metrics clearly, and provides insights to help improve sales strategies, make operations smoother, and boost overall business performance.
+The dashboard also highlights daily and monthly revenue trends, with the highest sales occurring on Sundays and a total monthly revenue of ₹24.54M. By offering detailed insights into top-selling pizzas and sales distribution across different categories, this dashboard serves as a valuable tool for making informed business decisions and optimizing sales strategies.
 
-Total Quantity Sold: 50K
 
-Visualizations
-Revenue by Pizza Category
-A bar chart showing revenue for different pizza categories:
+### Steps followed 
 
-Classic: ₹5M
+Data Collection: Gathered sales data from various sources, ensuring it was comprehensive and accurate.
 
-Supreme: ₹5M
+Data Cleaning: Processed and cleaned the data to remove any inconsistencies, missing values, or errors.
 
-Chicken: ₹5M
+Data Integration: Combined data from different sources into a single dataset for a unified view.
 
-Veggie: ₹5M
+Data Analysis: Analyzed the cleaned data to identify key sales metrics and trends.
 
-Hourly Sales of Pizzas
-A line graph displaying the count of pizzas sold at different hours of the day, with noticeable peaks around the 10th and 15th hours.
+Visualizations: Created various visualizations to represent different sales metrics, including revenue by pizza category, hourly sales trends, and revenue by day and month.
 
-Revenue by Pizza Sizes
-A bar chart illustrating revenue for different pizza sizes:
+Dashboard Design: Designed an interactive dashboard layout to display the visualizations and make it user-friendly.
 
-L
+Implementation: Implemented the dashboard using a data visualization tool or software, ensuring all visualizations were accurately represented.
 
-M
+Testing: Tested the dashboard to ensure it was working correctly and making necessary adjustments for better performance.
 
-S
+Documentation: Prepared a README file and problem statement to explain the purpose, features, and usage of the dashboard.
 
-XL
+## Revenue By Pizza Category
 
-XXL
+![image](https://github.com/user-attachments/assets/379bebec-b55f-4a3c-88a2-9d56b6abd809)
 
-The largest revenue comes from size L.
+## Analysis of Total Revenue, Average Order Value , Total Pizza's Sold
 
-Revenue by Day Name
-A bar chart showing revenue by day of the week, with a significant peak on Sunday.
+![image](https://github.com/user-attachments/assets/878a34fb-acfe-4084-8028-0c0978e0ad6f)
 
-Top Selling Pizzas
-A pie chart depicting the distribution of top-selling pizzas by category:
 
-Classic: 22.29%
+## Conclusion
 
-Supreme: 30.03%
-
-Veggie: 23.5%
-
-Chicken: 24.18%
-
-Revenue by Month
-A table listing monthly revenue figures:
-
-Month	Revenue
-January	₹888,256.50
-February	₹884,262.00
-March	₹839,794.50
-April	₹890,269.50
-May	₹719,652.00
-June	₹842,923.50
-July	₹829,092.00
-August	₹839,307.00
-September	₹838,917.00
-October	₹809,038.50
-November	₹832,686.00
-December	₹725,095.50
-Total	₹24,535,801.50
-Conclusion
 This dashboard provides valuable insights into sales performance, helping to identify trends and optimize strategies for better results.
 
-Feel free to customize this template to better fit your specific requirements! Let me know if you need any additional information or adjustments.
+
