@@ -11,33 +11,33 @@ The dashboard also highlights daily and monthly revenue trends, with the highest
 
 ![image](https://github.com/user-attachments/assets/0c14672d-639b-46a3-9abd-e403dbbb04df)
 
-### Steps followed 
+## Steps followed 
 
-# Data Collection: 
+### Data Collection: 
 Gathered sales data from various sources, ensuring it was comprehensive and accurate.
 
-# Data Cleaning: 
+### Data Cleaning: 
 Processed and cleaned the data to remove any inconsistencies, missing values, or errors.
 
-# Data Integration:
+### Data Integration:
 Combined data from different sources into a single dataset for a unified view.
 
-# Data Analysis:
+### Data Analysis:
 Analyzed the cleaned data to identify key sales metrics and trends.
 
-# Visualizations: 
+### Visualizations: 
 Created various visualizations to represent different sales metrics, including revenue by pizza category, hourly sales trends, and revenue by day and month.
 
-# Dashboard Design: 
+### Dashboard Design: 
 Designed an interactive dashboard layout to display the visualizations and make it user-friendly.
 
-# Implementation:
+### Implementation:
 Implemented the dashboard using a data visualization tool or software, ensuring all visualizations were accurately represented.
 
-# Testing:
+### Testing:
 Tested the dashboard to ensure it was working correctly and making necessary adjustments for better performance.
 
-# Documentation: 
+### Documentation: 
 Prepared a README file and problem statement to explain the purpose, features, and usage of the dashboard.
 
 ## Revenue By Pizza Category
